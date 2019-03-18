@@ -4,7 +4,7 @@
 	<title>Menghubungkan codeigniter dengan database mysql</title>
 </head>
 <body>
-	<h1>Mengenal Model Pada Codeigniter | MalasNgoding.com</h1>
+	<h1>Mengenal Model Pada Codeigniter</h1>
 	<table border="1">
 		<tr>
 			<th>Nama</th>
